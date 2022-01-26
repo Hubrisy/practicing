@@ -1,0 +1,240 @@
+body{
+    width: 100%;
+}
+.container-one{
+    height: 700px;
+    background-image: url(2C89CA15-6169-4C29-A595-B6A7843C5616.png);
+    background-size: 100%;
+}
+.curtain{
+    height: 70px;
+    background-color: rgba(19, 20, 21, 0.7);
+    display: flex;
+    justify-content: space-between;
+}
+.container-two{
+    height: 450px;
+}
+.container-three{
+    height: 700px;
+    background-image: url(image\ 1.png);
+    background-size: 100%;
+}
+.container-four{
+    height: 350px;
+}
+.container-five{
+    height: 550px;
+    background-image:url(concert-984276_1920\ 1.png);
+    background-size: 100%;
+}
+.container-six{
+    height: 550px;
+}
+.container-seven{
+    height: 700px;
+    background-image:url(Rectangle\ 24.png);
+    background-size: 100%;
+}
+.block-container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.two-containers{
+    height: 300px;
+    width:500px;
+    background-color: #1314158a;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 5px;
+}
+.curtain-two{
+    height: 140px;
+    background-color: rgba(19, 20, 21, 0.7);
+    padding-top:25px ;
+}
+.reverse{
+    padding-top: 85px;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 100px;
+}
+.line-footer{
+    display: flex;
+    padding-left: 400px;
+    padding-top: 25px;
+}
+.footer-text{
+    font-family: Gilroy;
+    font-style: normal;
+    font-size: 12px;
+    padding-left: 600px;
+}
+.line-two{
+    border-bottom: 1px solid rgb(172, 163, 163);
+    width: 700px;
+}
+.main-text{
+    padding-top: 75px;
+    padding-left: 100px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+}
+.text{
+    color:white;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+}
+.white{
+    color: white;
+}
+.black{
+    color: black;
+}
+.pinky{
+    background-color: #FFFBFD;
+}
+.pink{
+    color:rgb(224, 35, 98);
+}
+.lead{
+    padding-top: 150px;
+    font-size: 40px;
+}
+.bottom-container-one{
+    padding-left: 100px;
+}
+.main-bottom{
+    border-bottom: 7px solid rgb(235, 229, 231);
+    width: 90px;
+}
+.bottom{
+    border-bottom: 7px solid rgb(224, 35, 98);
+    width: 60px;
+}
+.bottom-container-two{
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.two-columns{
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+.column{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+.two{
+    padding-right: 70px;
+}
+.second{
+    padding-right: 100px;
+}
+.list{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 35px;
+    text-transform: none ;
+}
+.line{
+    border-bottom: 1px solid rgb(172, 163, 163);
+    width: 500px;
+}
+li{
+    color: rgb(224, 35, 98);
+}
+li span{
+    color: black;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    padding-top: 75px;
+}
+.register{
+    height:55px;
+    width: 200px;
+    background-color:rgb(224, 35, 98) ;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 5px;
+}
+.mini{
+    height: 40px;
+    width: 140px;
+    padding-top: 5px;
+    font-size: small;
+}
+.padding{
+    padding-top: 10px;
+}
+.left{
+    padding-left: 140px;
+}
+.right{
+    padding-right: 140px;
+}
+.some-text{
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 28px;
+    text-align: center;
+    padding-top: 40px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+.logo{
+    padding-top: 10px;
+}
+.two-inputs{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+.three-inputs{
+    display: flex;
+    flex-flow: column;
+    padding-left: 453px;
+}
+input{
+    height: 70px;
+    width: 290px;
+    background-color: rgba(255, 255, 255, 0.164);
+    border-radius: 5px;
+}
+.input-left{
+    padding-left: 10px;
+}
+.input-right{
+    padding-right: 10px;
+}
+.input-width{
+    width: 607px;
+}
+.padding-top{
+    padding-top: 15px;
+}
