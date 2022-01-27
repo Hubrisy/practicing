@@ -49,12 +49,12 @@ body{
     border-radius: 5px;
 }
 .curtain-two{
-    height: 140px;
+    height: 100px;
     background-color: rgba(19, 20, 21, 0.7);
     padding-top:25px ;
 }
 .reverse{
-    padding-top: 85px;
+    padding-top: 55px;
 }
 .footer{
     display: flex;
@@ -237,4 +237,8 @@ input{
 }
 .padding-top{
     padding-top: 15px;
+}
+a{
+    text-decoration: none;
+    color:black;
 }
