@@ -21,6 +21,7 @@ function getInfo(){
     console.log("Email:",inputThree.value)
     console.log("Artist:",inputFour.value)
     console.log("Country:",inputFive.value)
+    alert("You are successfully registered")
 }
 
 button.addEventListener('click',getInfo);
