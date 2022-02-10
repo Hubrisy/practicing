@@ -6,15 +6,6 @@ const inputFive = document.getElementById('inputFive');
 
 const button = document.getElementById('register');
 
-// let newArr = [];
-
-// function getInfo(){
-//     newArr.push(inputOne.value,inputTwo.value,inputThree.value,inputFour.value,inputFive.value);
-//     console.log(newArr);
-// }
-
-// button.addEventListener('click',getInfo);
-
 function getInfo(){
     console.log("Name:",inputOne.value)
     console.log("Last Name:",inputTwo.value)
