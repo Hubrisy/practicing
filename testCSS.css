@@ -1,6 +1,7 @@
 body{
     width: 100%;
     max-width: 100%;
+    min-width: 1520px;
 }
 .container-one{
     height: 700px;
